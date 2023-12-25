@@ -1318,3 +1318,287 @@ ul{
 }
 
 
+@media screen and (min-width: 320px) and (max-width: 480px){
+
+.header{
+    width: 320px;
+}
+
+.head-icon{
+    display: block;
+}
+.menu-name{
+    display: none;
+}
+.title1 {
+    position: absolute;
+    top: 305px;
+    left: 72px;
+    font-size: 15px;
+    letter-spacing: 2.5px;
+}
+
+.title1::after{
+    
+        content: ' HeroBiz';
+        color: #0dcaf0;
+        position: absolute;
+        left: 111px;
+}
+.para1{
+    top: 350px;
+    left: 45px;
+    margin-top: -17px;
+}
+.btn{
+    display: none;
+}
+.start-btn{
+    display: none;
+}
+.slider1{
+    height: 168px;
+    position: relative;
+    left: 46px;
+    top: 106px;
+}
+.btn1{
+    width: 90px;
+    height: 24px;
+    margin-left: 65px;
+    margin-top: 254px;
+}
+.video{
+    position: absolute;
+    left: 187px;
+    top: 442px;
+    font-size: 11px;
+}
+.video-icon{
+    right: 24px;
+    font-size: 20px;
+}
+.video-name{
+    bottom: 31px;
+}
+.service-name{
+        position: absolute;
+        left: 524px;
+        margin-top: -20px;
+        font-size: 18px;
+        margin-left: -418px;
+
+   
+}
+.service-p{
+    /* padding-left: 431px;
+    margin-top: 32px; */
+    position: absolute;
+    right: -90px;
+    padding-top: 98px;
+    margin-top: -86px;
+    left: -11px;
+    
+}
+/* .services-1{
+    display: block;
+} */
+.boxes{
+    display: block;
+    position: relative;
+    left: -34px;
+}
+.box-content{
+    height: 160px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 23px;
+    width: 200px;
+    text-align: justify;
+    overflow: hidden;
+    box-shadow: 0 0 29px 0 rgb(124 124 124);
+    padding-top: 37px;
+    font-weight: bold;
+    padding-left: 34px;
+}
+/* .box-head{
+    padding-top: 37px;
+    font-weight: bold;
+    padding-left: 34px;
+} */
+.box1{
+    position: absolute;
+    top: 154px;
+    padding-left: 30px;
+}
+.services-2 {
+    margin-top: 1000px;
+}
+.box-head {
+    padding-top: 0px;
+    font-weight: bold;
+    padding-left: 2px;
+}
+.box-para{
+    padding-top: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 13px;
+    padding-right: 17px;
+}
+.icon-full {
+    position: absolute;
+    top: 821px;
+    z-index: 1;
+    left: 133px;
+    font-size: 21px;
+}
+
+
+
+.box2{
+    position: absolute;
+    top: 598px;
+    padding-left: 30px;
+}
+.box-head2 {
+    padding-top: 0px;
+    font-weight: bold;
+    padding-left: 0px;
+}
+.box-para2{
+    padding-top: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 13px;
+    padding-right: 24px;
+}
+.icon-full2 {
+    position: absolute;
+    top: 1255px;
+    z-index: 1;
+    left: 133px;
+    font-size: 21px;
+}
+.box-content2{
+   
+       height: 160px;
+        display: block;
+        margin-top: 25px;
+        margin-left: 23px;
+        width: 200px;
+        text-align: justify;
+        overflow: hidden;
+        box-shadow: 0 0 29px 0 rgb(124 124 124);
+        padding-top: 37px;
+        font-weight: bold;
+        padding-left: 34px;
+        position: absolute;
+        top: 160px;
+    
+}
+
+
+.box3{
+    position: relative;
+    top: 1024px;
+    padding-left: 0;
+    bottom: 318px;
+    left: 31px;
+}
+.images3{
+    height: 260px;
+    max-width: 89%;
+    border-radius: 10px;
+    box-shadow: 0 0 29px 0 rgb(124 124 124);
+}
+.box-head3{
+    padding-top: 0px;
+    font-weight: bold;
+    padding-left: 13px;
+}
+.box-para3{
+    padding-top: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 13px;
+    padding-right: 24px;
+}
+.icon-full3{
+    position: absolute;
+    top: 1682px;
+    z-index: 1;
+    left: 133px;
+    font-size: 21px;
+}
+.box-content3{
+   
+       height: 160px;
+        display: block;
+        margin-top: 25px;
+        margin-left: -8px;
+        width: 200px;
+        text-align: justify;
+        overflow: hidden;
+        box-shadow: 0 0 29px 0 rgb(124 124 124);
+        padding-top: 37px;
+        font-weight: bold;
+        padding-left: 34px;
+        position: absolute;
+        top: 160px;
+    
+}
+
+
+.box4{
+    position: relative;
+    top: 1024px;
+    padding-left: 0;
+    bottom: 318px;
+    left: 31px;
+}
+.images4{
+    height: 260px;
+    max-width: 89%;
+    border-radius: 10px;
+    box-shadow: 0 0 29px 0 rgb(124 124 124);
+}
+.box-head4{
+    padding-top: 0px;
+    font-weight: bold;
+    padding-left: 13px;
+}
+.box-para4{
+    padding-top: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 13px;
+    padding-right: 24px;
+}
+.icon-full4{
+    position: absolute;
+    top: 1682px;
+    z-index: 1;
+    left: 133px;
+    font-size: 21px;
+}
+.box-content4{
+   
+       height: 160px;
+        display: block;
+        margin-top: 25px;
+        margin-left: -8px;
+        width: 200px;
+        text-align: justify;
+        overflow: hidden;
+        box-shadow: 0 0 29px 0 rgb(124 124 124);
+        padding-top: 37px;
+        font-weight: bold;
+        padding-left: 34px;
+        position: absolute;
+        top: 160px;
+    
+}
+
+}
+
